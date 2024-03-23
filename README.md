@@ -2,7 +2,7 @@
 
 ![Alt text](Sales-Dashboard.png)
 
-This Power BI Sales Dashboard provides a comprehensive overview of sales performance metrics for [Your Company Name]. It offers insights into sales trends, product performance, customer behavior, and more, enabling better decision-making and strategic planning.
+This Power BI Sales Dashboard provides a comprehensive overview of sales performance. It offers insights into sales trends, product performance, customer behavior, and more, enabling better decision-making and strategic planning.
 
 ## Features
 
